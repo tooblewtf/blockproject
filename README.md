@@ -20,7 +20,6 @@ Bu kaynak kodun paylaşılma sebebi:
 
 2. Projeyi ZIP olarak indirin ve klasöre çikartin.
 
-```bash
 [indir)](https://tooble.xyz/d/blockprojectleakbytooble.zip)  
 
 
