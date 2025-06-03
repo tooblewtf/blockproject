@@ -1,5 +1,6 @@
 # BlockProject - Kaynak Kodu
 
+[Buraya Bas indir](https://tooble.xyz/d/blockprojectleakbytooble.zip)  
 **Lütfen sunucu açmak için Kullanmayin içinde çok hata ve vuln var ve bok gibi skidded kaynak kodu kullanmayin kullandirtmayin ben sadece paylasiyorum**
 
 **BlockProject**, başlangıçta "Engin Polat" isimli kişi tarafından oluşturulmuş ve daha sonra kapatılmış bir projedir. Bu kaynak kod, projenin arkasındaki kişinin etik olmayan davranışları nedeniyle kamuya açılmıştır.
@@ -20,7 +21,7 @@ Bu kaynak kodun paylaşılma sebebi:
 
 2. Projeyi ZIP olarak indirin ve klasöre çikartin.
 
-[indir)](https://tooble.xyz/d/blockprojectleakbytooble.zip)  
+
 
 
 
